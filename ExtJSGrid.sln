@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtJSGrid", "GridInExtJS\ExtJSGrid.csproj", "{29F1E2E1-5421-4D41-AEB2-C1DE60AF2942}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtJSGrid", "ExtJSGrid\ExtJSGrid.csproj", "{29F1E2E1-5421-4D41-AEB2-C1DE60AF2942}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{EF189D28-54D0-4833-BC35-B7BBCCDD0632}"
 	ProjectSection(SolutionItems) = preProject
